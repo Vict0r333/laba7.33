@@ -1,0 +1,355 @@
+.frame1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.frame1-frame1 {
+  width: 100%;
+  height: 1850px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame1-image2 {
+  top: 38px;
+  left: 59px;
+  width: 177px;
+  height: 110px;
+  position: absolute;
+}
+.frame1-text {
+  top: 42px;
+  left: 308px;
+  color: rgba(0, 0, 0, 1);
+  width: 536px;
+  height: auto;
+  position: absolute;
+  font-size: 55px;
+  font-style: Regular;
+  text-align: left;
+  font-family: JejuMyeongjo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1-text01 {
+  color: rgba(0, 0, 0, 1);
+}
+.frame1-text02 {
+  color: rgba(182, 52, 56, 1);
+}
+.frame1-rectangle2 {
+  top: 52px;
+  right: 143px;
+  width: 276px;
+  height: 107px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
+.frame1-rectangle1 {
+  top: 124px;
+  left: 464px;
+  width: 512px;
+  height: 49px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.frame1-text04 {
+  top: 132px;
+  left: 680px;
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: JejuMyeongjo;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1-text06 {
+  top: 81px;
+  color: rgba(0, 0, 0, 1);
+  right: 169px;
+  width: 220px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: JejuMyeongjo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1-rectangle3 {
+  top: 214px;
+  left: 0px;
+  width: 1530px;
+  height: 55px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.frame1-text08 {
+  top: 116px;
+  left: 1181px;
+  color: rgb(15, 15, 15);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: JejuMyeongjo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1-text10 {
+  background-color: black;
+  top: 228px;
+  left: 253px;
+  color: black;
+  width: 354px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: JejuMyeongjo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1-text12 {
+  top: 228px;
+  color: rgba(0, 0, 0, 1);
+  right: 114px;
+  width: 436px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: JejuMyeongjo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1-image12 {
+  top: 838px;
+  left: 89px;
+  width: 583px;
+  height: 528px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+}
+.frame1-image11 {
+  top: 325px;
+  left: 96px;
+  width: 528px;
+  height: 470px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+}
+.frame1-text14 {
+  top: 346px;
+  left: 823px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 55px;
+  font-style: Regular;
+  text-align: left;
+  font-family: JejuMyeongjo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1-image13 {
+  top: 1411px;
+  left: 0px;
+  width: 765px;
+  height: 257px;
+  position: absolute;
+}
+.frame1-image15 {
+  top: 1411px;
+  left: 1378px;
+  width: 62px;
+  height: 257px;
+  position: absolute;
+}
+.frame1-image14 {
+  top: 1411px;
+  left: 707px;
+  width: 820px;
+  height: 257px;
+  position: absolute;
+}
+.frame1-text16 {
+  top: 675px;
+  color: rgba(0, 0, 0, 1);
+  right: 289px;
+  height: auto;
+  position: absolute;
+  font-size: 55px;
+  font-style: Regular;
+  text-align: left;
+  font-family: JejuMyeongjo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1-text18 {
+  top: 434px;
+  color: rgba(0, 0, 0, 1);
+  right: 140px;
+  width: 584px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: JejuMyeongjo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1-text23 {
+  top: 799px;
+  color: rgba(0, 0, 0, 1);
+  right: 128px;
+  width: 584px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: JejuMyeongjo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1-text28 {
+  top: 1009px;
+  left: 826px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 55px;
+  font-style: Regular;
+  text-align: left;
+  font-family: JejuMyeongjo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1-text30 {
+  top: 1133px;
+  color: rgba(0, 0, 0, 1);
+  right: 123px;
+  width: 584px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: JejuMyeongjo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1-image16 {
+  top: 1411px;
+  left: 0px;
+  width: 38px;
+  height: 257px;
+  position: absolute;
+}
+.frame1-rectangle4 {
+  top: 1668px;
+  left: 0px;
+  width: 1530px;
+  height: 181px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.frame1-text32 {
+  left: 179px;
+  color: rgba(255, 255, 255, 1);
+  width: 302px;
+  bottom: 71px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: JejuMyeongjo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1-text34 {
+  left: 737px;
+  color: rgba(255, 255, 255, 1);
+  width: 169px;
+  bottom: 71px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: JejuMyeongjo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1-text36 {
+  color: rgba(255, 255, 255, 1);
+  right: 88px;
+  width: 316px;
+  bottom: 67px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: JejuMyeongjo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
